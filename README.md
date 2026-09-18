@@ -6,7 +6,7 @@ A collection of Jupyter notebooks from a Deep Learning lab course, covering foun
 
 | Notebook | Description |
 |---|---|
-| [`Lab2_Deep_Learning.ipynb`](.CS3807_Experiment5_CNN_MobileNetV2) | Implementation of a Multi-layer perceptron, covering the core building blocks of neural networks — weights, bias, activation function, and the learning rule. |
+| [`Lab2_Deep_Learning.ipynb`](.CS3807_Experiment5_CNN_MobileNetV2) | 
 
 ## Getting Started
 
