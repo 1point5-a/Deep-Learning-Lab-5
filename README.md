@@ -6,7 +6,7 @@ A collection of Jupyter notebooks from a Deep Learning lab course, covering foun
 
 | Notebook | Description |
 |---|---|
-| [`Lab2_Deep_Learning.ipynb`](.CS3807_Experiment5_CNN_MobileNetV2) | 
+| [`Lab2_Deep_Learning.ipynb`](.CS3807_Experiment5_CNN_MobileNetV2) | Implementation of a CNN with the MobileNetV2 architecture
 
 ## Getting Started
 
